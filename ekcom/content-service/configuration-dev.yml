@@ -1,0 +1,3 @@
+account:
+  content-service:
+    MAX_COUNT: 20
