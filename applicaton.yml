@@ -1,0 +1,13 @@
+CDN_LOCATION:
+USER:
+PASS:
+
+
+service.yml + service-dev.yml + pillar-applicaton.yml+ root-appilication.yml
+
+
+1. BOOT docker instance
+  
+2. cache
+
+3. shell script 
