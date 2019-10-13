@@ -1,2 +1,2 @@
-accounts:
- PILLAR: accounts
+pillar:
+ name: accounts

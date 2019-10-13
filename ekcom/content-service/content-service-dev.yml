@@ -2,4 +2,4 @@ account:
   content-service:
     MAX_COUNT: 10
     ENV: dev
-    pillar: 'account'
+    pillar: 'ekcom'

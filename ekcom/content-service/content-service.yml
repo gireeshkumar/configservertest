@@ -3,4 +3,4 @@ account:
     MAX_COUNT: 19
     ENV: default
     FF1: true
-    pillar: 'account'
+    pillar: 'ekcom'

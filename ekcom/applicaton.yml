@@ -1,2 +1,2 @@
-accounts:
- PILLAR: ekcom
+pillar:
+ name: ekcom
