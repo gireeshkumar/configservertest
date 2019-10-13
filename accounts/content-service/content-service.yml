@@ -1,1 +1,5 @@
-FF_FEATURE1:
+account:
+  content-service:
+    MAX_COUNT: 19
+    ENV: default
+    FF1: true

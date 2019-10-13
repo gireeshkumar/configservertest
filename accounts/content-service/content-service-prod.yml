@@ -1,0 +1,4 @@
+account:
+  content-service:
+    MAX_COUNT: 11
+    ENV: prod
