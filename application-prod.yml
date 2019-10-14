@@ -1,0 +1,3 @@
+common:
+  VERSION: 1
+  APP_LOC: prod
